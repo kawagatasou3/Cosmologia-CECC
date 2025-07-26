@@ -43,3 +43,15 @@ You may share with attribution, but no derivatives or changes are allowed.
 
 For questions, comments, or collaboration proposals, please contact:  
 **kawagatasou3** on GitHub
+
+# Cosmología CECC – Documentación Principal
+
+Consulta los documentos clave:
+- [CECC-DarkMatter.md](docs/CECC-DarkMatter.md)
+- [CECC-SubatomicParticles.md](docs/CECC-SubatomicParticles.md)
+- [CECC-Energy.md](docs/CECC-Energy.md)
+- [CECC-Consciousness.md](docs/CECC-Consciousness.md)
+- [CECC-Cycles.md](docs/CECC-Cycles.md)
+- [CECC-Examples.md](docs/CECC-Examples.md)
+- [CECC-FAQ.md](docs/CECC-FAQ.md)
+- [CECC-Principles.md](docs/CECC-Principles.md)
